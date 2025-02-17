@@ -52,6 +52,8 @@ Here are some of the projects I've worked on:
 5. **Geeks4Geeks**: This is where I upload the Geeks4Geeks problems that I solved.
    - **Technologies Used**: JS, TS, Java
    - **GitHub Repository**: [[[Link to the repository](https://github.com/MahmudulHasan/Geeks4Geeks)]
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MahmudulHasan&theme=react-dark)
   
 
 ## 💬 Let's Connect!
