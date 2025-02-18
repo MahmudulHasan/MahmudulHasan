@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Software Quality Assurance Engine
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages**: JavaScript, TypeScript, Java, 
+- **Programming Languages**: JavaScript, TypeScript, Java
 - **UI Test Automation**: Selenium WebDriver, Playwright, WebdriverIO, Appium, Protractor
 - **API testing**: Postman, Curl, REST Assured
 - **DevOps**: Docker, Jenkins, Github Actions
@@ -47,11 +47,11 @@ Here are some of the projects I've worked on:
 
 4. **Leetcode-problems**: This is where I upload the leetcode problems that I solved.
    - **Technologies Used**: JS, TS, Java
-   - **GitHub Repository**: [[[Link to the repository](https://github.com/MahmudulHasan/Leetcode-problems)]
+   - **GitHub Repository**: [[Link to the repository](https://github.com/MahmudulHasan/Leetcode-problems)]
   
 5. **Geeks4Geeks**: This is where I upload the Geeks4Geeks problems that I solved.
    - **Technologies Used**: JS, TS, Java
-   - **GitHub Repository**: [[[Link to the repository](https://github.com/MahmudulHasan/Geeks4Geeks)]
+   - **GitHub Repository**: [[Link to the repository](https://github.com/MahmudulHasan/Geeks4Geeks)]
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MahmudulHasan&theme=react-dark)
   
