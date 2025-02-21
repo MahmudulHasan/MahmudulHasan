@@ -10,15 +10,6 @@ Welcome to my GitHub profile! I'm a passionate Software Quality Assurance Engine
 - **DevOps**: Docker, Jenkins, Github Actions
 - **Tools**: Git, VS Code, IntelliJ IDEA
 
-## 🌱 What I'm Currently Learning
-
-I'm always looking to expand my knowledge and skills. Currently, I'm focusing on:
-
-- API testing with Rest Assured.
-- LOAD testing with Jmeter.
-- UI testing with Playwright.
-- Security Testing.
-
 Here is the link of all the certifications that I have done so far : https://www.linkedin.com/in/mahmudulhasanautul/details/certifications/
 
 ## 📫 How to Reach Me
